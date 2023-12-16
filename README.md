@@ -1,4 +1,8 @@
-### Hi there 👋
+# About Me:
+✨ Undergrad student in PESU, Bangalore.
+
+✨ Currently working on multiple ML projects, and Bluetooth Low Energy protocol based project.
+
 
 <!--
 **DedLad/DedLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
