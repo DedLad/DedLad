@@ -1,7 +1,7 @@
 # About Me:
 ✨ Undergrad student in PESU, Bangalore.
 
-✨ Currently working on multiple ML projects, and Bluetooth Low Energy protocol based project.
+✨ Interested in working on anything that is interesting👍
 
 
 <!--
